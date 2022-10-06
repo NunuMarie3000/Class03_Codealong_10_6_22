@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/bin/Debug/net6.0/class03
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/bin/Debug/net6.0/class03.deps.json
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/bin/Debug/net6.0/class03.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/bin/Debug/net6.0/class03.dll
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/bin/Debug/net6.0/class03.pdb
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.dll
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/refint/class03.dll
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.pdb
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/class03.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Class03_Codealong_10_6_22/class03/obj/Debug/net6.0/ref/class03.dll
